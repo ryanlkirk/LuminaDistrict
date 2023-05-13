@@ -1,13 +1,13 @@
 # Lumina District
 A cyberpunk hotel booking site react demo
 
-Welcome to the Lumina District Hotel, a fictional hotel set in a cyberpunk universe. This project is a React application that showcases the hotel's services, amenities, and allows users to make reservations.
+Welcome to the Lumina District, a fictional region set in a cyberpunk universe. This project is a React application that showcases hotel's, thier services, amenities, and allows users to make reservations.
 
 ![Lumina District Hotel](./src/assets/images/lumina.webp)
 
 ## Features
 
-- View information about the hotel, including rooms, facilities, and services.
+- View information about the hotels, including rooms, facilities, and services.
 - Browse through a gallery of images showcasing the hotel's unique style.
 - Make reservations for specific dates and room types.
 - Contact the hotel for inquiries or special requests.
